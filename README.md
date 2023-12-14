@@ -1,5 +1,2 @@
-Para testar usar a branch
-
-```
-feature/desafio1
-```
+Para ver as alteracoes acessar a  PR: 
+https://github.com/leandrozanin/full-cycle-ddd-desafio1/pull/new/feature/desafio1
